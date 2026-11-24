@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF
+    <script>
+      (function () {
+        try {
+          var u = new 
+          if (u.search
+            u.searchPa
+            history.re
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <meta name="referr
+    <link rel="icon" h
+    <meta name="viewpo
+    <!--app-head-->
+    <script src="/airo
+    <script src="/airo
+  </head>
+  <body class="fs-unma
+    <div id="app" clas
+    <script type="modu
+    <script src="/anal
+  </body>
+</html>
